@@ -8,7 +8,7 @@ A protocol that reduces the memory consumption of routers running BGPsec when va
 
 1. Download and install TEPLA BIRD ver 2.0 according to the following site.
   
-  http://www.cipher.risk.tsukuba.ac.jp/tepla/index.html
+   http://www.cipher.risk.tsukuba.ac.jp/tepla/index.html
 
 1. Replace packets.c
 
