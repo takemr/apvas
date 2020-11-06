@@ -1,7 +1,7 @@
 # apvas
 A protocol that reduces the memory consumption of routers running BGPsec when validating AS_PATHs in routing information.
 
-#usage
+# usage
 1. Download and install BIRD ver 1.6.0 according to the following site.
 
    https://bird.network.cz/
