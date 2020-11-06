@@ -10,7 +10,7 @@ A protocol that reduces the memory consumption of routers running BGPsec when va
   
   http://www.cipher.risk.tsukuba.ac.jp/tepla/index.html
 
-1. Replace packet.c
+1. Replace packets.c
 
 1. Run setup.sh
 
