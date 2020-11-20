@@ -1,6 +1,6 @@
 # apvas
 A protocol that reduces the memory consumption of routers running BGPsec when validating AS_PATHs in routing information.
-Details of the protocol are described in the following papers.
+Details of the protocol are described in the following paper.
 
    https://arxiv.org/abs/2008.13346
 
@@ -13,7 +13,7 @@ Details of the protocol are described in the following papers.
   
    http://www.cipher.risk.tsukuba.ac.jp/tepla/index.html
 
-1. Replace packets.c
+1. Replace bird-1.6.0/proto/bgp/packets.c 
 
 1. Run setup.sh
 
