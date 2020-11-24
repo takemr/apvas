@@ -1,4 +1,4 @@
-# apvas
+# APVAS
 A protocol that reduces the memory consumption of routers running BGPsec when validating AS_PATHs in routing information.
 Details of the protocol are described in the following paper.
 
